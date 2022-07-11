@@ -1,0 +1,8 @@
+name: "Sales"
+navbar:
+  title: "Sales"
+  left:
+    - text: "Forecast"
+      href: index.html
+    - text: "Category"
+      href: about.html
